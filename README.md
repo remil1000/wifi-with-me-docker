@@ -17,4 +17,4 @@ and run the container
 
     # docker run -v "$repo_path:/wifi-with-me" -p 8081:8081 "$myname:wifi-with-me"
 
-should be available on port 8081, you can reverse proxy it if needed
+should be available on port 8081, you can reverse proxy if needed
